@@ -19,7 +19,7 @@ const Header = () => {
             typeSpeed={70}
             deleteSpeed={50}
             delaySpeed={1000}
-            words={['Engineer', 'Developer', 'Athlete', 'Musician']}
+            words={['Engineer','AI Researcher', 'IEEE Author', 'Athlete', 'Musician']}
           />
           </h5>
         <CTA />

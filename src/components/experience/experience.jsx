@@ -11,12 +11,13 @@ const experience = () => {
        <div className="container experience__container">
 
        <div className="experience__ml">
-         <h3>Machine Learning | Data Analysis</h3>
+         <h3>Machine Learning Researcher [Jan 2023-Present]</h3>
            <div className="experience__content">
              <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>TensorFlow / Pytorch</h4>
+                <p>So can I write something here?</p>
                 <small className='text-light'>Proficient</small>
               </div>
              </article>
@@ -50,7 +51,7 @@ const experience = () => {
          {/* END OF ML */}
 
          <div className="experience__frontend">
-           <h3>Frontend Development</h3>
+           <h3>Software Engineer [May 2023 - August 2023]</h3>
            <div className="experience__content">
              <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
