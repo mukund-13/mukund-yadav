@@ -21,20 +21,20 @@ const about = () => {
           <div className="about__cards">
             <article className='about__card'>
               <MdOutlineEngineering className='about__icon'/>
-              <h5>Engineer</h5>
-              <small>MLOps, Data, Cloud, Full Stack.</small>
+              <h5>Engineering</h5>
+              <small>Machine Learning, Quantiative Modeling, Software</small>
             </article>
 
             <article className='about__card'>
               <GiAstronautHelmet className='about__icon'/>
-              <h5>Astronomy Enthusiast</h5>
-              <small>Astrophysics, Star Gazing</small>
+              <h5>Research</h5>
+              <small>Deep Learning, Computer Vision, NLP, LLMs, Transformers, Diffusion</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
-              <h5>Projects</h5>
-              <small>URC 2020, Voice Assistant, Biometrics</small>
+              <h5>Technology</h5>
+              <small>Python, C++, TypeScript, PyTorch, TensorFlow, React, Express, AWS</small>
             </article>
           </div>
           <p>Hello! My name is Mukund Yadav. I am currently doing my MS in Computer Engineering, where my thesis explores Machine Learning techniques in improving CT imaging for COVID-19 patients. I am experienced in Deep Learning, Computer Vision, LLMs, Quantitative Modeling, Data Analysis and Software Engineering. I have a keen interest in space and astronomy, you can often find me just reading space journals or star gazing using my telescope. I am also a multi-instrumentalist and an athlete, I played in my school band as the lead guitarist and also played in my school's basketball team as the starting Point Guard! I love reading books, mostly non fiction but always open to explore new fields. Teaching is also a big passion of mine, I often teach math and computer programming to K-12 students, and also have served as the head TA in some college level CS/ECE classes.

@@ -1,6 +1,6 @@
 import React from 'react'
 import './testimonials.css'
-import PIC1 from '../../assets/andromeda.jpeg'
+import PIC1 from '../../assets/andromeda.jpg'
 import PIC2 from '../../assets/moon.jpeg'
 import PIC3 from '../../assets/sun.jpeg'
 
