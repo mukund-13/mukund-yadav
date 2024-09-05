@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mukund-yadav/static/css/main.f6e3dff1.css",
+    "main.js": "/mukund-yadav/static/js/main.fd996041.js",
+    "static/media/home.jpeg": "/mukund-yadav/static/media/home.03b03592828643ef60d8.jpeg",
+    "static/media/face.png": "/mukund-yadav/static/media/face.194e286cf80613c092eb.png",
+    "static/media/GMMR.png": "/mukund-yadav/static/media/GMMR.298deee9be4e893dd066.png",
+    "static/media/crossword.png": "/mukund-yadav/static/media/crossword.f0b08d0fa08142e20820.png",
+    "static/media/moon.jpeg": "/mukund-yadav/static/media/moon.70ed9b7b114245ec8d83.jpeg",
+    "static/media/andromeda.jpg": "/mukund-yadav/static/media/andromeda.61bfebda2ccc8f298b38.jpg",
+    "static/media/Resume_ML.pdf": "/mukund-yadav/static/media/Resume_ML.2775806f3b0a38b09674.pdf",
+    "static/media/URC.jpeg": "/mukund-yadav/static/media/URC.6084fe6c766c021099ab.jpeg",
+    "static/media/me.jpeg": "/mukund-yadav/static/media/me.ecc4aeb25bc043a81e4a.jpeg",
+    "static/media/baseball.jpeg": "/mukund-yadav/static/media/baseball.52093a5116d0c49f3569.jpeg",
+    "static/media/sun.jpeg": "/mukund-yadav/static/media/sun.dd903b7182c17895ad09.jpeg",
+    "static/media/me2.jpeg": "/mukund-yadav/static/media/me2.c14c27badf00ac87e0ae.jpeg",
+    "static/media/stock.png": "/mukund-yadav/static/media/stock.b345f230a9f2d288d7f0.png",
+    "static/media/va.jpeg": "/mukund-yadav/static/media/va.dcddae54aa16fcbc8af3.jpeg",
+    "index.html": "/mukund-yadav/index.html",
+    "main.f6e3dff1.css.map": "/mukund-yadav/static/css/main.f6e3dff1.css.map",
+    "main.fd996041.js.map": "/mukund-yadav/static/js/main.fd996041.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6e3dff1.css",
+    "static/js/main.fd996041.js"
+  ]
+}
